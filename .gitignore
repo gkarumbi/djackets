@@ -1,0 +1,6 @@
+# Project
+/djackes_django/settings.py
+/virtual/
+
+#Vue
+/djackets_vue/src/views/Checkout.vue
